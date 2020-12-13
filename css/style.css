@@ -1,0 +1,47 @@
+html, body {
+	background-color: blue;
+	background-position: center;
+	color: #005;
+	margin: 0;
+	padding: 0; }
+
+#top {
+	margin:0 auto;
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 15px;
+	width: 1000px;
+	background-color: green; }
+
+#NAGLOWEK {
+	width: 1000px; margin: 0; padding: 0; height: 115px; background-color: white; }
+
+#MENU {
+	width: 950px; height: 50px; text-align: center; background-color: grey; padding: 25px; }
+
+#MENU a {
+	background-color: orange; color: grey; padding: 5px }
+
+#MENU a:hover {
+	background-color: yellow; color: black; padding: 5px; }
+
+#KOLUMNA_LEWA {
+	clear: both;
+	width: 660px;
+	float: left;
+	overflow: hidden;
+	background-color: blue; 
+	margin: 0;
+	padding: 20px; }	
+
+#KOLUMNA_PRAWA {
+	width:260px;
+	float: right;
+	overflow: hidden;
+	background-color: red; 
+	margin: 0;
+	padding: 20px; }
+
+#STOPKA {
+	width: 970px; height: 50px; clear: both; background-color: black; color: black; font-size: 15px; padding: 15px}
+
+
